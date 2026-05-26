@@ -31,13 +31,6 @@ Between them lives the treasure itself: source above, transmission between, rece
 
 We build and maintain open-source software for Tibetan cultural preservation. All projects are developed under the principle that cultural infrastructure should belong to the communities it serves.
 
-**TermaType** — A modern Tibetan word processor with the integrated Chakrishar Dictionary (316,000+ entries across 64 sources). Supported by NLnet NGI Zero Commons Fund.
-
-**Iconometric Atlas** — A geometric understanding engine for canonical Tibetan Buddhist iconometric drawings from Desi Sangye Gyatso's *Handbook of Tibetan Iconometry*.
-
-**TermaVision** — Computer vision models for identifying and analyzing Tibetan Buddhist deity imagery and iconography.
-
-**Living Library** — An evolving online library of Tibetan texts, biographies, and cultural resources.
 
 ## Our principles
 
