@@ -22,8 +22,8 @@ Our name comes from the Tibetan word *terma* (གཏེར་མ་) — "treasu
 
 Our seal carries the Tibetan terma mark (གཏེར་ཚེག) — the scribal sign that, for a thousand years, has identified a text as treasure. Two rings frame this mark:
 
-- The **outer ring** is **preservation** (གཅེས་ཉར་, *chényar*) — the structural commitment to safeguard what exists.
-- The **inner ring** is **transmission** (རྒྱུད་པ་, *gyüpa*) — the living current that carries meaning forward across generations.
+- The **outer ring** is **preservation** — the structural commitment to safeguard what exists.
+- The **inner ring** is **transmission** — the living current that carries meaning forward across generations.
 
 Between them lives the treasure itself: source above, transmission between, reception below.
 
